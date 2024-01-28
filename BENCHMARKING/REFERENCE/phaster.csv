@@ -1,0 +1,303 @@
+NCBI Id,start,end,Organism Name
+NC_000962,2970063,2980833,Mycobacterium tuberculosis H37Rv
+NC_000962,1766987,1788115,Mycobacterium tuberculosis H37Rv
+NC_000913,0,0,Escherichia coli K12
+NC_000913,2465301,2477629,Escherichia coli K12
+NC_000913,0,0,Escherichia coli K12
+NC_000913,564755,586057,Escherichia coli K12
+NC_000913,1411899,1434959,Escherichia coli K12
+NC_000913,1198640,1216671,Escherichia coli K12
+NC_000913,1627517,1644304,Escherichia coli K12
+NC_000913,0,0,Escherichia coli K12
+NC_000913,0,0,Escherichia coli K12
+NC_003112,0,0,Neisseria meningitidis MC58
+NC_003112,1101164,1133966,Neisseria meningitidis MC58
+NC_002947,4375283,4412410,Pseudomonas putida KT2440
+NC_002947,0,0,Pseudomonas putida KT2440
+NC_002947,2586645,2608847,Pseudomonas putida KT2440
+NC_002947,3426049,3447235,Pseudomonas putida KT2440
+NC_002947,1748035,1781069,Pseudomonas putida KT2440
+NC_003902,2435792,2454339,Xanthomonas campestris pv. campestris str. ATCC 33913
+NC_003902,3523035,3562020,Xanthomonas campestris pv. campestris str. ATCC 33913
+NC_003902,2435792,2454339,Xanthomonas campestris pv. campestris str. ATCC 33913
+NC_003902,0,0,Xanthomonas campestris pv. campestris str. ATCC 33913
+NC_002935,0,0,Corynebacterium diphtheriae NCTC 13129
+NC_002935,0,0,Corynebacterium diphtheriae NCTC 13129
+NC_002935,1863158,1880771,Corynebacterium diphtheriae NCTC 13129
+NC_002935,151930,190741,Corynebacterium diphtheriae NCTC 13129
+NC_003198,1885326,1933598,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+NC_003198,3504242,3555052,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+NC_003198,1538899,1572919,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+NC_003198,4459144,4507514,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+NC_003198,1008698,1053060,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+NC_003198,4683670,4696075,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+NC_003198,0,0,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+NC_003198,0,0,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+NC_004337,2220680,2240203,Shigella flexneri 2a str. 301
+NC_004337,236055,252705,Shigella flexneri 2a str. 301
+NC_004337,899339,921295,Shigella flexneri 2a str. 301
+NC_004337,306583,340775,Shigella flexneri 2a str. 301
+NC_004337,2684932,2695524,Shigella flexneri 2a str. 301
+NC_004337,1916802,1946940,Shigella flexneri 2a str. 301
+NC_004337,2030315,2079334,Shigella flexneri 2a str. 301
+NC_004337,1174944,1188408,Shigella flexneri 2a str. 301
+NC_004337,1387236,1407895,Shigella flexneri 2a str. 301
+NC_004337,0,0,Shigella flexneri 2a str. 301
+NC_004337,696659,747734,Shigella flexneri 2a str. 301
+NC_004337,1574398,1588276,Shigella flexneri 2a str. 301
+NC_004337,0,0,Shigella flexneri 2a str. 301
+NC_004337,0,0,Shigella flexneri 2a str. 301
+NC_002967,1175279,1214754,Treponema denticola ATCC 35405
+NC_002737,526682,570494,Streptococcus pyogenes M1 GAS
+NC_002737,0,0,Streptococcus pyogenes M1 GAS
+NC_002737,775802,821679,Streptococcus pyogenes M1 GAS
+NC_002737,1182568,1222912,Streptococcus pyogenes M1 GAS
+NC_003030,2013351,2078513,Clostridium acetobutylicum ATCC 824
+NC_003030,1274369,1283638,Clostridium acetobutylicum ATCC 824
+NC_003116,1768546,1807515,Neisseria meningitidis Z2491
+NC_003116,0,0,Neisseria meningitidis Z2491
+NC_003116,1218293,1236260,Neisseria meningitidis Z2491
+NC_004431,0,0,Escherichia coli CFT073
+NC_004431,908948,945468,Escherichia coli CFT073
+NC_004431,3007212,3065315,Escherichia coli CFT073
+NC_004431,0,0,Escherichia coli CFT073
+NC_004431,1394721,1452255,Escherichia coli CFT073
+NC_004431,1324666,1381279,Escherichia coli CFT073
+NC_004431,1324666,1381279,Escherichia coli CFT073
+NC_004116,1816883,1876441,Streptococcus agalactiae 2603V/R
+NC_004116,550498,617294,Streptococcus agalactiae 2603V/R
+NC_002745,2005721,2052732,Staphylococcus aureus subsp. aureus N315
+NC_002745,0,0,Staphylococcus aureus subsp. aureus N315
+NC_002662,1033815,1077531,Lactococcus lactis subsp. lactis Il1403
+NC_002662,502338,517610,Lactococcus lactis subsp. lactis Il1403
+NC_002662,28459,56369,Lactococcus lactis subsp. lactis Il1403
+NC_002662,1414112,1457044,Lactococcus lactis subsp. lactis Il1403
+NC_002662,1997699,2028023,Lactococcus lactis subsp. lactis Il1403
+NC_002662,447143,484064,Lactococcus lactis subsp. lactis Il1403
+NC_002516,670089,701381,Pseudomonas aeruginosa PAO1
+NC_002516,670089,701381,Pseudomonas aeruginosa PAO1
+NC_005085,2300705,2339162,Chromobacterium violaceum ATCC 12472
+NC_005085,353384,378213,Chromobacterium violaceum ATCC 12472
+NC_005085,427983,447996,Chromobacterium violaceum ATCC 12472
+NC_000964,2151626,2288090,Bacillus subtilis subsp. subtilis str. 168
+NC_000964,0,0,Bacillus subtilis subsp. subtilis str. 168
+NC_000964,2653062,2701098,Bacillus subtilis subsp. subtilis str. 168
+NC_000964,1314453,1348182,Bacillus subtilis subsp. subtilis str. 168
+NC_005362,327847,374448,Lactobacillus johnsonii NCC 533
+NC_005362,1287749,1331686,Lactobacillus johnsonii NCC 533
+NC_003485,277254,332714,Streptococcus pyogenes MGAS8232
+NC_003485,1443373,1493373,Streptococcus pyogenes MGAS8232
+NC_003485,1038487,1095615,Streptococcus pyogenes MGAS8232
+NC_003485,575144,619102,Streptococcus pyogenes MGAS8232
+NC_003485,1200226,1241780,Streptococcus pyogenes MGAS8232
+NC_003366,1310119,1327800,Clostridium perfringens str. 13
+NC_003923,2036088,2091958,Staphylococcus aureus subsp. aureus MW2
+NC_003923,1522193,1584849,Staphylococcus aureus subsp. aureus MW2
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,4324782,4373679,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,5211071,5239791,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,4005528,4094743,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,2372413,2387799,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,3397086,3479941,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,3512834,3537385,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,10251,32806,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_005126,0,0,Photorhabdus luminescens subsp. laumondii TTO1
+NC_004631,4446021,4491188,Salmonella enterica subsp. enterica serovar Typhi Ty2
+NC_004631,4666559,4678557,Salmonella enterica subsp. enterica serovar Typhi Ty2
+NC_004631,1927739,1972365,Salmonella enterica subsp. enterica serovar Typhi Ty2
+NC_004631,2734604,2760158,Salmonella enterica subsp. enterica serovar Typhi Ty2
+NC_004631,1408218,1441766,Salmonella enterica subsp. enterica serovar Typhi Ty2
+NC_004631,3489900,3540712,Salmonella enterica subsp. enterica serovar Typhi Ty2
+NC_003143,954442,989832,Yersinia pestis CO92
+NC_003143,0,0,Yersinia pestis CO92
+NC_003143,0,0,Yersinia pestis CO92
+NC_003143,0,0,Yersinia pestis CO92
+NC_003143,2362960,2404684,Yersinia pestis CO92
+NC_003143,2111358,2140547,Yersinia pestis CO92
+NC_004668,1398051,1446151,Enterococcus faecalis V583
+NC_004668,0,0,Enterococcus faecalis V583
+NC_004668,2001579,2020730,Enterococcus faecalis V583
+NC_004668,0,0,Enterococcus faecalis V583
+NC_004668,1245337,1259965,Enterococcus faecalis V583
+NC_004668,2697272,2736808,Enterococcus faecalis V583
+NC_004668,1925423,1948114,Enterococcus faecalis V583
+NC_004668,288966,332964,Enterococcus faecalis V583
+NC_004668,0,0,Enterococcus faecalis V583
+NC_003295,2084443,2125140,Ralstonia solanacearum GMI1000
+NC_003295,0,0,Ralstonia solanacearum GMI1000
+NC_003295,1798179,1821238,Ralstonia solanacearum GMI1000
+NC_003295,0,0,Ralstonia solanacearum GMI1000
+NC_003295,0,0,Ralstonia solanacearum GMI1000
+NC_003295,0,0,Ralstonia solanacearum GMI1000
+NC_003295,0,0,Ralstonia solanacearum GMI1000
+NC_003295,887600,899438,Ralstonia solanacearum GMI1000
+NC_003155,6678303,6693625,Streptomyces avermitilis MA-4680
+NC_004347,2788307,2822836,Shewanella oneidensis MR-1
+NC_004347,655830,720989,Shewanella oneidensis MR-1
+NC_004347,3076443,3126349,Shewanella oneidensis MR-1
+NC_004741,235184,256034,Shigella flexneri 2a str. 2457T
+NC_004741,1177790,1192292,Shigella flexneri 2a str. 2457T
+NC_004741,1612770,1627925,Shigella flexneri 2a str. 2457T
+NC_004741,2006995,2054672,Shigella flexneri 2a str. 2457T
+NC_004741,309135,339909,Shigella flexneri 2a str. 2457T
+NC_004741,1893682,1923605,Shigella flexneri 2a str. 2457T
+NC_004741,692891,748184,Shigella flexneri 2a str. 2457T
+NC_004741,1881581,1903815,Shigella flexneri 2a str. 2457T
+NC_004741,0,0,Shigella flexneri 2a str. 2457T
+NC_004741,893482,918345,Shigella flexneri 2a str. 2457T
+NC_004741,0,0,Shigella flexneri 2a str. 2457T
+NC_004741,2678519,2688968,Shigella flexneri 2a str. 2457T
+NC_004741,1084465,1105919,Shigella flexneri 2a str. 2457T
+NC_004741,692891,748184,Shigella flexneri 2a str. 2457T
+NC_004741,2201408,2219625,Shigella flexneri 2a str. 2457T
+NC_004741,2586518,2613924,Shigella flexneri 2a str. 2457T
+NC_004741,0,0,Shigella flexneri 2a str. 2457T
+NC_004741,0,0,Shigella flexneri 2a str. 2457T
+NC_004088,2676239,2705458,Yersinia pestis KIM
+NC_004088,0,0,Yersinia pestis KIM
+NC_004088,3584471,3619864,Yersinia pestis KIM
+NC_004088,2415700,2456467,Yersinia pestis KIM
+NC_004088,0,0,Yersinia pestis KIM
+NC_004556,2005890,2022616,Xylella fastidiosa Temecula1
+NC_004556,0,0,Xylella fastidiosa Temecula1
+NC_004556,1161143,1180387,Xylella fastidiosa Temecula1
+NC_004556,1180582,1226126,Xylella fastidiosa Temecula1
+NC_004556,1132387,1143339,Xylella fastidiosa Temecula1
+NC_004556,446956,480065,Xylella fastidiosa Temecula1
+NC_004556,1288023,1331541,Xylella fastidiosa Temecula1
+NC_004556,1372023,1401198,Xylella fastidiosa Temecula1
+NC_004556,0,0,Xylella fastidiosa Temecula1
+NC_003997,442049,487496,Bacillus anthracis str. Ames
+NC_003997,3743581,3795489,Bacillus anthracis str. Ames
+NC_003997,3452694,3517426,Bacillus anthracis str. Ames
+NC_003997,0,0,Bacillus anthracis str. Ames
+NC_003997,4845035,4859679,Bacillus anthracis str. Ames
+NC_004578,4505488,4530373,Pseudomonas syringae pv. tomato str. DC3000
+NC_004578,0,0,Pseudomonas syringae pv. tomato str. DC3000
+NC_004578,623546,651202,Pseudomonas syringae pv. tomato str. DC3000
+NC_004578,2253004,2271122,Pseudomonas syringae pv. tomato str. DC3000
+NC_004578,3825215,3859787,Pseudomonas syringae pv. tomato str. DC3000
+NC_004578,4531872,4566113,Pseudomonas syringae pv. tomato str. DC3000
+NC_004567,589608,631770,Lactobacillus plantarum WCFS1
+NC_004567,2157270,2197761,Lactobacillus plantarum WCFS1
+NC_004567,0,0,Lactobacillus plantarum WCFS1
+NC_004567,0,0,Lactobacillus plantarum WCFS1
+NC_004567,2188411,2232769,Lactobacillus plantarum WCFS1
+NC_002488,486956,528481,Xylella fastidiosa 9a5c
+NC_002488,2006087,2024354,Xylella fastidiosa 9a5c
+NC_002488,647699,697033,Xylella fastidiosa 9a5c
+NC_002488,2361812,2388777,Xylella fastidiosa 9a5c
+NC_002488,2170954,2199787,Xylella fastidiosa 9a5c
+NC_002488,1514344,1557570,Xylella fastidiosa 9a5c
+NC_002488,1585873,1640907,Xylella fastidiosa 9a5c
+NC_002678,6975231,7011108,Mesorhizobium loti MAFF303099
+NC_002678,321147,347654,Mesorhizobium loti MAFF303099
+NC_002678,6592538,6608727,Mesorhizobium loti MAFF303099
+NC_002678,0,0,Mesorhizobium loti MAFF303099
+NC_003210,2360908,2403235,Listeria monocytogenes EGD-e
+NC_003210,120654,131380,Listeria monocytogenes EGD-e
+NC_002695,2153413,2254887,Escherichia coli O157:H7 str. Sakai
+NC_002695,291210,317713,Escherichia coli O157:H7 str. Sakai
+NC_002695,1159810,1178581,Escherichia coli O157:H7 str. Sakai
+NC_002695,0,0,Escherichia coli O157:H7 str. Sakai
+NC_002695,5042064,5079469,Escherichia coli O157:H7 str. Sakai
+NC_002695,1245903,1316397,Escherichia coli O157:H7 str. Sakai
+NC_002695,1921441,1972367,Escherichia coli O157:H7 str. Sakai
+NC_002695,2888774,2947429,Escherichia coli O157:H7 str. Sakai
+NC_002695,3479657,3500189,Escherichia coli O157:H7 str. Sakai
+NC_002695,291210,317713,Escherichia coli O157:H7 str. Sakai
+NC_002695,891108,929694,Escherichia coli O157:H7 str. Sakai
+NC_002695,1586046,1621988,Escherichia coli O157:H7 str. Sakai
+NC_002695,1538645,1591830,Escherichia coli O157:H7 str. Sakai
+NC_002695,1586046,1623575,Escherichia coli O157:H7 str. Sakai
+NC_002695,3191900,3201512,Escherichia coli O157:H7 str. Sakai
+NC_002695,2592106,2616977,Escherichia coli O157:H7 str. Sakai
+NC_002695,2668007,2712036,Escherichia coli O157:H7 str. Sakai
+NC_002695,1586046,1621988,Escherichia coli O157:H7 str. Sakai
+NC_002695,1615552,1666524,Escherichia coli O157:H7 str. Sakai
+NC_002695,1757549,1814804,Escherichia coli O157:H7 str. Sakai
+NC_002695,2153413,2254887,Escherichia coli O157:H7 str. Sakai
+NC_004307,1288882,1312690,Bifidobacterium longum NCC2705
+NC_004310,578497,592232,Brucella suis 1330
+NC_003212,74218,115501,Listeria innocua Clip11262
+NC_003212,151526,166661,Listeria innocua Clip11262
+NC_003212,2406426,2446744,Listeria innocua Clip11262
+NC_003212,1245851,1297054,Listeria innocua Clip11262
+NC_003212,2580952,2629860,Listeria innocua Clip11262
+NC_003212,1710189,1767456,Listeria innocua Clip11262
+NC_003197,2731822,2776890,Salmonella typhimurium LT2
+NC_003197,961043,1006517,Salmonella typhimurium LT2
+NC_003197,0,0,Salmonella typhimurium LT2
+NC_003197,2844265,2879414,Salmonella typhimurium LT2
+NC_003197,2330961,2345217,Salmonella typhimurium LT2
+NC_003197,4417918,4438335,Salmonella typhimurium LT2
+NC_003197,1098179,1144020,Salmonella typhimurium LT2
+NC_004557,1137606,1185305,Clostridium tetani E88
+NC_004557,1657696,1693071,Clostridium tetani E88
+NC_004557,2232193,2282092,Clostridium tetani E88
+NC_000907,1558774,1597183,Haemophilus influenzae Rd KW20
+NC_000907,1495049,1513250,Haemophilus influenzae Rd KW20
+NC_002570,0,0,Bacillus halodurans C-125
+NC_002570,0,0,Bacillus halodurans C-125
+NC_002570,1025611,1043075,Bacillus halodurans C-125
+NC_002570,3606875,3658248,Bacillus halodurans C-125
+NC_004070,1313282,1354212,Streptococcus pyogenes MGAS315
+NC_004070,742914,788640,Streptococcus pyogenes MGAS315
+NC_004070,1130998,1172231,Streptococcus pyogenes MGAS315
+NC_004070,1410542,1452968,Streptococcus pyogenes MGAS315
+NC_004070,974608,1026068,Streptococcus pyogenes MGAS315
+NC_004070,1227589,1283428,Streptococcus pyogenes MGAS315
+NC_004722,1803335,1866036,Bacillus cereus ATCC 14579
+NC_004722,2520823,2579367,Bacillus cereus ATCC 14579
+NC_004722,0,0,Bacillus cereus ATCC 14579
+NC_004722,3655937,3668825,Bacillus cereus ATCC 14579
+NC_002978,548107,573485,Wolbachia endosymbiont of Drosophila melanogaster
+NC_002978,,,Wolbachia endosymbiont of Drosophila melanogaster
+NC_002978,236214,278992,Wolbachia endosymbiont of Drosophila melanogaster
+NC_002978,548107,573485,Wolbachia endosymbiont of Drosophila melanogaster
+NC_002978,626320,642425,Wolbachia endosymbiont of Drosophila melanogaster
+NC_002655,1862359,1935058,Escherichia coli O157:H7 EDL933
+NC_002655,3549506,3567479,Escherichia coli O157:H7 EDL933
+NC_002655,2961049,3018696,Escherichia coli O157:H7 EDL933
+NC_002655,2667317,2692188,Escherichia coli O157:H7 EDL933
+NC_002655,2272753,2330172,Escherichia coli O157:H7 EDL933
+NC_002655,291211,317714,Escherichia coli O157:H7 EDL933
+NC_002655,1862359,1935058,Escherichia coli O157:H7 EDL933
+NC_002655,1699525,1757930,Escherichia coli O157:H7 EDL933
+NC_002655,291211,317714,Escherichia coli O157:H7 EDL933
+NC_002655,1249033,1295563,Escherichia coli O157:H7 EDL933
+NC_002655,1330720,1400169,Escherichia coli O157:H7 EDL933
+NC_002655,1683407,1692862,Escherichia coli O157:H7 EDL933
+NC_002655,1862359,1935058,Escherichia coli O157:H7 EDL933
+NC_002655,1862359,1935058,Escherichia coli O157:H7 EDL933
+NC_002655,892757,931345,Escherichia coli O157:H7 EDL933
+NC_002655,1699525,1757930,Escherichia coli O157:H7 EDL933
+NC_002655,1623741,1675806,Escherichia coli O157:H7 EDL933
+NC_002655,0,0,Escherichia coli O157:H7 EDL933
+NC_002655,2743224,2788401,Escherichia coli O157:H7 EDL933
+NC_002655,2107527,2165694,Escherichia coli O157:H7 EDL933
+NC_002655,3261856,3271468,Escherichia coli O157:H7 EDL933
+NC_002655,0,0,Escherichia coli O157:H7 EDL933
+NC_004606,1098746,1161348,Streptococcus pyogenes SSI-1
+NC_004606,724653,759311,Streptococcus pyogenes SSI-1
+NC_004606,443902,486331,Streptococcus pyogenes SSI-1
+NC_004606,623853,669296,Streptococcus pyogenes SSI-1
+NC_004606,545487,583678,Streptococcus pyogenes SSI-1
+NC_004606,877707,924828,Streptococcus pyogenes SSI-1
+NC_002758,910703,961979,Staphylococcus aureus subsp. aureus Mu50
+NC_002758,2082980,2129322,Staphylococcus aureus subsp. aureus Mu50
+NC_002758,2124922,2150747,Staphylococcus aureus subsp. aureus Mu50
+NC_002758,0,0,Staphylococcus aureus subsp. aureus Mu50
+NC_003919,3081509,3127792,Xanthomonas axonopodis pv. citri str. 306
+NC_003919,1209301,1229038,Xanthomonas axonopodis pv. citri str. 306
