@@ -63,7 +63,7 @@ Escherichia_coli_O157-H7.gb.gz,Escherichia coli O157:H7 str. Sakai,NC_002695,15,
 GCA_000007985.2_ASM798v2_genomic.gb.gz,Geobacter sulfurreducens PCA,AE017180.2,1,1036178,1074106,29,AE017180
 GCA_000152565.1_ASM15256v1_genomic.gb.gz,Burkholderia cenocepacia PC184,CH482377.1,1,6852,42422,28,CH482377
 GCA_002082995.2_ASM208299v2_genomic.gb.gz,Campylobacter jejuni subsp. jejuni,NBTT02000001.1,1,1436676,1471298,53,NBTT02000001
-GCA_002082995.2_ASM208299v2_genomic.gb.gz,Campylobacter jejuni subsp. jejuni,NBTT02000001.1,2,1729604,>1753287,37,NBTT02000001
+GCA_002082995.2_ASM208299v2_genomic.gb.gz,Campylobacter jejuni subsp. jejuni,NBTT02000001.1,2,1729604,1753287,37,NBTT02000001
 GCA_002813895.1_ASM281389v1_genomic.gb.gz,Cyanobacterium sp. HL-69,CP024912.1,1,2438918,2461137,28,CP024912
 Haemophilus_influenzae_Rd_KW20.gb.gz,Haemophilus influenzae Rd KW20,NC_000907,1,1496763,1513073,26,NC_000907
 Haemophilus_influenzae_Rd_KW20.gb.gz,Haemophilus influenzae Rd KW20,NC_000907,2,1559374,1592771,50,NC_000907
