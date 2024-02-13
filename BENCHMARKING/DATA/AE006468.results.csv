@@ -1,4 +1,4 @@
-name,sample_ID,start_position,end_position,length,label_1,label_2
+name,sample_ID,start_position,end_position,length,label,label_2
 AE006468,AE006468.2,0,3999,4000,0,0
 AE006468,AE006468.2,100,4099,4000,0,0
 AE006468,AE006468.2,200,4199,4000,0,0

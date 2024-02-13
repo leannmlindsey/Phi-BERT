@@ -1,4 +1,4 @@
-name,sample_ID,start_position,end_position,length,label_1,label_2
+name,sample_ID,start_position,end_position,length,label,label_2
 NC_000962,NC_000962.3,0,3999,4000,0,0
 NC_000962,NC_000962.3,100,4099,4000,0,0
 NC_000962,NC_000962.3,200,4199,4000,0,0
